@@ -1,0 +1,19 @@
+{
+  "name": "dynamodb-crud",
+  "version": "1.0.0",
+  "description": "Demo CRUD DynamoDB",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1692.0",
+    "body-parser": "^1.20.3",
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "multer": "^1.4.4"
+  }
+}
